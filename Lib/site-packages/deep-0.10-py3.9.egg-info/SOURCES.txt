@@ -1,0 +1,8 @@
+README.txt
+setup.py
+deep/__init__.py
+deep/test.py
+deep.egg-info/PKG-INFO
+deep.egg-info/SOURCES.txt
+deep.egg-info/dependency_links.txt
+deep.egg-info/top_level.txt
